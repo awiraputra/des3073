@@ -2,5 +2,5 @@
 //test
 echo "test";
 echo "<br>";
-  echo "from collab";
+  echo "from coll";
 </php>
